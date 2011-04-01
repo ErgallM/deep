@@ -1,0 +1,11 @@
+#!/usr/bin/php
+<?php
+require_once 'Deep.php';
+$deep = new Deep();
+
+if ($argc > 1) {
+    array_shift($argv);
+    $deep->run($argv);
+}
+
+?>

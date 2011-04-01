@@ -1,0 +1,5 @@
+deep - Набор скриптов, упрощающих мою жизнь в Linux.
+
+Компоненты:
+    Deep\Host  - работа с hosts файлом.
+    Depp\VHost - работа с apache VirtualHost.
